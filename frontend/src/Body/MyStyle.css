@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  caption {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #000000;
+    background-color: rgb(216, 209, 194);
+    padding: 10px;
+  }
+  
+  
